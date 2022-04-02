@@ -13,7 +13,7 @@ In this project, we were introduced to Git, GitHub and Source code management. I
     - Step 6 - Create the README.md and push the modifications
     
 - **1. Repo-session**
-  - A new directory called [0x03-git](./0x03-git) in your alx-zero_day repo.
+  - A new directory called [0x03-git](../0x03-git) in your alx-zero_day repo.
 
 
 
