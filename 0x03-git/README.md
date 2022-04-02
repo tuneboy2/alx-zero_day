@@ -20,8 +20,8 @@ In this project, we were introduced to Git, GitHub and Source code management. I
    - Empty files were created thus: `c/c_is_fun.c`, `js/main.js`, and `js/index.js`
    - A file `bash/alx` and `bash/school` was created.
 
-
-
+- **3. Collaboration is the base of a company**
+  - A branch `update_script` is created, and its contents were updated.
 
 
 
