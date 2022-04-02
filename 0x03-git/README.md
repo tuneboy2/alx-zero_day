@@ -15,5 +15,6 @@ In this project, we were introduced to Git, GitHub and Source code management. I
 - **1. Repo-session**
   - A new directory called [0x03-git](../0x03-git) in your alx-zero_day repo.
 
-
+- **6. Never push too much**
+  - A `.gitignore` file and define a rule to never push `~` files
 
