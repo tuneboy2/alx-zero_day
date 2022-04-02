@@ -14,7 +14,28 @@ In this project, we were introduced to Git, GitHub and Source code management. I
     
 - **1. Repo-session**
   - A new directory called [0x03-git](../0x03-git) in your alx-zero_day repo.
+  
+ - **2. Coding fury road**
+   - These directories were created: `bash`, `c`, `js`
+   - Empty files were created thus: `c/c_is_fun.c`, `js/main.js`, and `js/index.js`
+   - A file `bash/alx` and `bash/school` was created.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 - **6. Never push too much**
-  - [.gitignore](./.gitignore): A `.gitignore` file and define a rule to never push `~` files
+  - [.gitignore](./.gitignore): A `.gitignore` file that defines a rule to never push `~` files
 
