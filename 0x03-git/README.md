@@ -29,7 +29,7 @@ In this project, we were introduced to Git, GitHub and Source code management. I
   - Create a new file `up_to_date` at the root of your directory and in it, write the git command line used
   - Add `up_to_date`to git
   
-  - **5. HAAA what did you do???**
+- **5. HAAA what did you do???**
    - The branch `update_script` to main and all conflicts were resolved
   
 - **6. Never push too much**
