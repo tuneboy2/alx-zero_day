@@ -30,7 +30,7 @@ In this project, we were introduced to Git, GitHub and Source code management. I
   - Add `up_to_date`to git
   
 - **5. HAAA what did you do???**
-   - The branch `update_script` to main and all conflicts were resolved
+   - The branch `update_script` was merged to main and all conflicts were resolved
   
 - **6. Never push too much**
   - [.gitignore](./.gitignore): A `.gitignore` file that defines a rule to never push `~` files
