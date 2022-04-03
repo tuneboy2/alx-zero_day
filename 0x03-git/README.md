@@ -23,19 +23,15 @@ In this project, we were introduced to Git, GitHub and Source code management. I
 - **3. Collaboration is the base of a company**
   - A branch `update_script` is created, and its contents were updated.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
+- **4. Collaboration: be up to date**
+  - The README.md file was updated via the main branch from GitHub.com.
+  - Get all changes of the main branch locally via `git pull`
+  - Create a new file `up_to_date` at the root of your directory and in it, write the git command line used
+  - Add `up_to_date`to git
+  
+  - **5. HAAA what did you do???**
+   - The branch `update_script` to main and all conflicts were resolved
+  
 - **6. Never push too much**
   - [.gitignore](./.gitignore): A `.gitignore` file that defines a rule to never push `~` files
 
